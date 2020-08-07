@@ -1,49 +1,6 @@
 {
   "categorias": [
     {
-      "titulo": "Lógica de Programação - Gustavo guanabara",
-      "link": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV",
-      "cor": "red",
-      "link_extra": {
-        "text": "Curso em Vídeo",
-        "url": "https://www.youtube.com/user/cursosemvideo"
-      },
-      "videos": [
-        {
-          "titulo": "Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara",
-          "url": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=1"
-        },
-        {
-          "titulo": "Primeiro Algoritmo - Curso de Algoritmos #02 - Gustavo Guanabara",
-          "url": "https://www.youtube.com/watch?v=M2Af7gkbbro&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=2"
-        },
-        {
-          "titulo": "Comando de Entrada e Operadores - Curso de Algoritmos #03 - Gustavo Guanabara",
-          "url": "https://www.youtube.com/watch?v=RDrfZ-7WE8c&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=3"
-        },
-        {
-          "titulo": "Operadores Lógicos e Relacionais - Curso de Algoritmos #04 - Gustavo Guanabara",
-          "url": "https://www.youtube.com/watch?v=Ig4QZNpVZYs&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=5"
-        },
-        {
-          "titulo": "Introdução ao Scratch - Curso de Algoritmos #05 - Gustavo Guanabara",
-          "url": "https://www.youtube.com/watch?v=GrPkuk1ezyo&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=6"
-        },
-        {
-          "titulo": "Exercícios de Algoritmo Resolvidos - Curso de Algoritmos #06 - Gustavo Guanabara",
-          "url": "https://www.youtube.com/watch?v=v2nCgGSVCeE&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=7"
-        },
-        {
-          "titulo": "Estruturas Condicionais 1 - Curso de Algoritmos #07 - Gustavo Guanabara",
-          "url": "https://www.youtube.com/watch?v=_g05aHdBAEY&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=8"
-        },
-        {
-          "titulo": "Estruturas Condicionais 2 - Curso de Algoritmos #08 - Gustavo Guanabara",
-          "url": "https://www.youtube.com/watch?v=7gGFHzqh4d8&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=9"
-        }    
-      ]
-    },
-    {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
@@ -79,11 +36,7 @@
         {
           "titulo": "Novidades do Angular v9",
           "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
@@ -121,7 +74,7 @@
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "url": "https://www.alura.com.br/cursos-online-mobile"
       },
       "videos": [
         {
@@ -169,7 +122,7 @@
       "cor": "red",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
@@ -187,40 +140,6 @@
         {
           "titulo": "Resident Evil 8",
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }
