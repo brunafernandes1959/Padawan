@@ -12,9 +12,9 @@ function CadastroVideo() {
   const [categorias, setCategorias] = useState([]);
   const categoryTitles = categorias.map(({ titulo }) => titulo);
   const { handleChange, values } = useForm({
-    titulo: '',
-    url: '',
-    categoria: '',
+    titulo: 'Video padrão',
+    url: 'https://www.youtube.com/watch?v=jOAU81jdi-c',
+    categoria: 'Front End',
   });
 
   useEffect(() => {
@@ -31,6 +31,7 @@ function CadastroVideo() {
 
       <form onSubmit={(event) => {
         event.preventDefault();
+        // alert('Video Cadastrado com sucesso!!!1!');
 
         const categoriaEscolhida = categorias.find((categoria) => {
           return categoria.titulo === values.categoria;
@@ -78,12 +79,8 @@ function CadastroVideo() {
       <br />
 
       <Link to="/cadastro/categoria">
-        <Button>
         Cadastrar Categoria
-        </Button>
       </Link>
-      <br/>
-      <br/>
     </PageDefault>
   );
 }
